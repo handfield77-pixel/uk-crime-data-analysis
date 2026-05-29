@@ -1,4 +1,4 @@
-# West Yorshire Crime Data Analysis
+# West Yorkshire Crime Data Analysis
 
 ## Overview
 This project analyses west yorkshire crime data using R to identify crime trends, patterns, and hotspots.
